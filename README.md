@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @whoopdotch
-- 👀 I’m interested in Statistica, Visualization, Machine Learning, Deep Learning and anything related to Language and Linguistics
+- 👀 I’m interested in Statistics, Visualization, Machine Learning, Deep Learning and anything related to Language and Linguistics
 - 🌱 I’m currently learning Indonesian
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 thomas@whoop.ch
